@@ -130,7 +130,7 @@ export default function About() {
           <path d="M20 8m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path>
         </svg>
         <CardBody className="gap-2 flex-wrap">
-          <h2 className="text-3xl font-bold ">Education</h2>
+          <h2 className="text-3xl font-bold ">Experience</h2>
 
           <div className="flex flex-col lg:flex-col gap-2">
             {educationList.map((education: educationType) => (
