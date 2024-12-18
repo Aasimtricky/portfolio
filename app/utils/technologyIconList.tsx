@@ -1,6 +1,5 @@
 import { iconType } from "../types";
 import {
-  JavascriptSVG,
   TypescriptSVG,
   VueSVG,
   ReactSVG,
