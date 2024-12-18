@@ -4,6 +4,7 @@ import {
   TypescriptSVG,
   VueSVG,
   ReactSVG,
+  JiraSVG
   TailwindSVG,
   ExpressSVG,
   NextUISVG,
@@ -17,11 +18,11 @@ import {
 let color: string = "#9ca3af";
 export const techonologyIconList: iconType[] = [
   {
-    name: "JavaScript",
+    name: "Jira",
     icon: (
-      <JavascriptSVG
+      <JiraSVG
         color={color}
-        size={35}
+        size={48}
       />
     ),
   },
