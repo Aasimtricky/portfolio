@@ -3,17 +3,17 @@ import { educationType } from "../types";
 export const educationList: educationType[] = [
   {
     career: "CSCS",
-    years: "Product & Sales, 2023",
-    description: "",
+    years: "2023 - Present",
+    description: "Product & Sales",
   },
   {
     career: "Hardware Shack",
-    years: "Founder, Oct 2021 -",
-    description: "",
+    years: "Oct 2021 - Present",
+    description: "Founder",
   },
   {
     career: "Simplex Pharmacy",
-    years: "Associate Project Manager, May 2023 - Dec 2023",
-    description: "cd",
+    years: "May 2023 - Dec 2023",
+    description: "Associate Project Manager",
   },
 ];
