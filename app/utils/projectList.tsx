@@ -2,7 +2,7 @@ import {
   AntdSVG,
   CSSSVG,
   ExpressSVG,
-  JavascriptSVG,
+  JiraSVG,
   MagentaKitchenSVG,
   MongoDBSVG,
   MongooseSVG,
