@@ -35,18 +35,19 @@ export const SassSVG = ({ color, size }: IconType) => {
   );
 };
 
-export const JiraSVG = ({ color, size }: IconType) => (
-  <svg
-    role="img"
-    viewBox="0 0 24 24"
-    xmlns="http://www.w3.org/2000/svg"
-    width={size}
-    fill={color}
-  >
-    <title>Jira</title>
-    <path d="M19.926 3.289L9.725 2.997 1.143 11.58l9.914 9.424 9.572-.285 2.115-9.177zm-3.807 11.02-5.883 5.563V8.155h5.883z" />
-  </svg>
-);
+export const JiraSVG = ({ color, size }: IconType) => {
+  return (
+    <svg
+      role="img"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+      width={size}
+      fill={color}
+    >
+      <title>Jira</title>
+      <path d="M19.926 3.289L9.725 2.997 1.143 11.58l9.914 9.424 9.572-.285 2.115-9.177zm-3.807 11.02-5.883 5.563V8.155h5.883z" />
+    </svg>
+  );
 };
 
 export const TypescriptSVG = ({ color, size }: IconType) => {
