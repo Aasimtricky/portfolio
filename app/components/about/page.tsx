@@ -40,7 +40,7 @@ export default function About() {
             src="https://media.licdn.com/dms/image/v2/D5603AQH2-hPl_mxQqQ/profile-displayphoto-shrink_200_200/B56ZOZJilbGcAY-/0/1733441236685?e=1740009600&v=beta&t=4YIuS2VjnfrMrK3XIxjm0dCXTwmCTbzOz7fxGWJwYNA"
             className="w-24 h-24 text-large brightness-90"
           />
-          <h1 className="text-4xl font-bold">{fullName}</h1>
+          <h1 className="text-3xl font-bold">{fullName}</h1>
 
           {/* <Button>Download CV</Button> */}
         </CardBody>
