@@ -4,7 +4,7 @@ import {
   TypescriptSVG,
   VueSVG,
   ReactSVG,
-  JiraSVG
+  JiraSVG,
   TailwindSVG,
   ExpressSVG,
   NextUISVG,
