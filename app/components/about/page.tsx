@@ -48,7 +48,7 @@ export default function About() {
 
       <Card className="col-span-full lg:row-start-1 lg:row-span-1 lg:col-span-2  opacity-0 mobile-animation whoAmICard">
         <CardBody className="gap-2">
-          <div className="text-3xl font-bold">Who am I?</div>
+          <div className="text-3xl font-bold">Hello!</div>
           <div className="text-lg text-gray-400">{whoAmI} </div>
         </CardBody>
       </Card>
